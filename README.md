@@ -41,8 +41,13 @@ Rabu, dan Jumat.
 
 # Insights
  Di kota Springfield, jumlah trek lagu yang diputar mencapai puncaknya pada hari Senin dan Jumat, sedangkan pada hari Rabu terjadi penurunan aktivitas.
+
  Di kota Shelbyville, sebaliknya, pengguna lebih banyak mendengarkan musik pada hari Rabu.
+
  Pengguna mendengarkan musik genre yang sama di awal dan akhir minggu.
+
  Tidak ada perbedaan yang mencolok antara Springfield dan Shelbyville. Di kedua kota tersebut, pop adalah genre yang paling populer.
+
  Musik pop adalah genre yang paling populer di Springfield, seperti yang kita perkirakan.
+
  Musik pop ternyata sama populernya baik di Springfield maupun di Shelbyville, dan Sedangkan musik rap ternyata tidak masuk ke daftar 5 besar genre untuk kedua kota tersebut.
