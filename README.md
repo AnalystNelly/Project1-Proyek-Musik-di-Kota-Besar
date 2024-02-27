@@ -10,32 +10,34 @@ Live Dashboard Link - https://public.tableau.com/views/Book4_17083663545840/Dash
 
 # Problem Statement : 
 Menguji tiga hipotesis:
+
 1.Aktivitas pengguna berbeda-beda tergantung pada hari dan kotanya.
+
 2.Pada senin pagi, penduduk Springfield dan Shelbyville mendengarkan genre yang berbeda. Hal ini juga berlaku pada hari Jumat malam.
-3.Pendengar di Springfield dan Shelbyville memiliki preferensi yang berbeda. Di Springfield, para pengguna lebih suka musik pop, sementara di Shelbyville musik
-rap memiliki lebih banyak penggemar.
+
+3.Pendengar di Springfield dan Shelbyville memiliki preferensi yang berbeda. Di Springfield, para pengguna lebih suka musik pop, sementara di Shelbyville musik rap memiliki lebih banyak penggemar.
 
 # Tahapan :
 Pertama, Anda akan mengevaluasi kualitas data dan melihat apakah masalahnya signifikan. Kemudian, selama pra-pemrosesan data, Anda akan mencoba
 mengatasi masalah yang paling serius.
+
 Proyek ini akan terdiri dari tiga tahap:
-1.Ikhtisar Data
-2.Pra-pemrosesan Data
-3.Pengujian hipotesis
+
+1. Ikhtisar Data
+2. Pra-pemrosesan Data
+3. Pengujian hipotesis
 
 Tujuan Proyek untuk menguji Hipotesis :
+
  Hipotesis 1: Membandingkan Perilaku Pengguna di Dua Kota
- Menurut hipotesis pertama, pengguna dari Springfield dan Shelbyville 
-memiliki perbedaan perilaku dalam mendengarkan musik. Pengujian ini
-menggunakan data yang diambil dari tiga hari dalam seminggu: Senin, 
+ Menurut hipotesis pertama, pengguna dari Springfield dan Shelbyville memiliki perbedaan perilaku dalam mendengarkan musik. Pengujian ini menggunakan data yang diambil dari tiga hari dalam seminggu: Senin, 
 Rabu, dan Jumat.
+
  Hipotesis 2: Musik di Awal dan Akhir Minggu
- Menurut hipotesis kedua, pada Senin pagi dan Jumat malam, warga
-Springfield mendengarkan genre musik yang berbeda dari yang dinikmati
-warga Shelbyville.
+ Menurut hipotesis kedua, pada Senin pagi dan Jumat malam, warga Springfield mendengarkan genre musik yang berbeda dari yang dinikmati warga Shelbyville.
+
  Hipotesis 3: Preferensi Genre di Springfield dan Shelbyville
- Hipotesis: Shelbyville menyukai musik rap. Warga Springfield lebih menyukai
-pop.
+ Hipotesis: Shelbyville menyukai musik rap. Warga Springfield lebih menyukai pop.
 
 # Insights
  Di kota Springfield, jumlah trek lagu yang diputar mencapai puncaknya pada 
